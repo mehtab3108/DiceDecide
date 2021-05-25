@@ -1,0 +1,42 @@
+.container {
+  width: 70%;
+  margin: auto;
+  text-align: center;
+}
+
+.dice {
+  text-align: center;
+  display: inline-block;
+
+}
+
+body {
+  background-color: #aad8d3;
+}
+
+h1 {
+  margin: 30px;
+  font-family: 'Concert One', sans-serif;
+  text-shadow: 5px 0 #232931;
+  font-size: 8rem;
+  color: #00adb5;
+}
+
+p {
+  font-size: 2rem;
+  color: #393e46;
+  font-family: 'Itim', cursive;
+}
+
+img {
+  width: 80%;
+}
+
+footer {
+  margin-top: 5%;
+  color: #194350;
+  text-align: center;
+  font-size: 1.25rem;
+  font-family: 'Itim', cursive;
+
+}
