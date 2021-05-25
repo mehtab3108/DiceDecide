@@ -1,7 +1,7 @@
 var randomVariable1= Math.floor((Math.random()*6)+1);
-document.querySelector(".img1").src="images/dice"+randomVariable1+".png";
+document.querySelector(".img1").src="dice"+randomVariable1+".png";
 var randomVariable2= Math.floor((Math.random()*6)+1);
-document.querySelector(".img2").src="images/dice"+randomVariable2+".png";
+document.querySelector(".img2").src="dice"+randomVariable2+".png";
 
 if(randomVariable1>randomVariable2){
   document.querySelector("h1").innerText="Player 1 wins";
